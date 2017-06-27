@@ -1,0 +1,14 @@
+[16:35:22] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[16:35:29] [Server thread/INFO]: Loading properties
+[16:35:30] [Server thread/INFO]: Default game type: CREATIVE
+[16:35:30] [Server thread/INFO]: Generating keypair
+[16:35:30] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:35:30] [Server thread/INFO]: Preparing level "FCA"
+[16:35:30] [Server thread/INFO]: Preparing start region for level 0
+[16:35:30] [Server thread/INFO]: Done (0,319s)! For help, type "help" or "?"
+[16:35:30] [Server thread/INFO]: Stopping server
+[16:35:30] [Server thread/INFO]: Saving players
+[16:35:30] [Server thread/INFO]: Saving worlds
+[16:35:30] [Server thread/INFO]: Saving chunks for level 'FCA'/Overworld
+[16:35:30] [Server thread/INFO]: Saving chunks for level 'FCA'/Nether
+[16:35:30] [Server thread/INFO]: Saving chunks for level 'FCA'/The End
